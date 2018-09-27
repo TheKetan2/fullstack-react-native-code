@@ -1,0 +1,81 @@
+{
+  "name": "ng-book 2 code directory",
+  "description": "This file is an index of the sample code",
+  "chapters": [
+    {
+      "name": "Writing your First Angular Web Application",
+      "examples": [
+        "first-app/angular-hello-world",
+        "first-app/angular-reddit"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "examples": []
+    },
+    {
+      "name": "How Angular Works",
+      "examples": ["how-angular-works/inventory-app"]
+    },
+    {
+      "name": "Built-in Directives",
+      "examples": ["built-in-directives"]
+    },
+    {
+      "name": "Forms in Angular",
+      "examples": ["forms"]
+    },
+    {
+      "name": "Data Architecture in Angular",
+      "examples": []
+    },
+    {
+      "name": "Data Architecture with Observables - Part 1: Services",
+      "examples": ["rxjs/rxjs-chat"]
+    },
+    {
+      "name": "Data Architecture with Observables - Part 2: View Components",
+      "examples": []
+    },
+    {
+      "name": "Data Architecture with Redux",
+      "examples": [
+        "redux/redux-chat",
+        "redux/redux-chat/redux-counter"
+      ]
+    },
+    {
+      "name": "HTTP",
+      "examples": ["http"]
+    },
+    {
+      "name": "Routing",
+      "examples": [
+        "routes/routing",
+        "routes/music"
+      ]
+    },
+    {
+      "name": "Converting an AngularJS 1.x App to Angular",
+      "examples": [
+        "upgrade/hybrid"
+      ]
+    },
+    {
+      "name": "Testing",
+      "examples": []
+    },
+    {
+      "name": "Advanced Components",
+      "examples": [
+        "advanced-components"
+      ]
+    },
+    {
+      "name": "Dependency Injection",
+      "examples": [
+        "dependency-injection"
+      ]
+    }
+  ]
+}

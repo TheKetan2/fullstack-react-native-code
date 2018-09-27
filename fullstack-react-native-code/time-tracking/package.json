@@ -1,0 +1,38 @@
+{
+  "name": "time-tracking",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "babel-eslint": "7.2.3",
+    "eslint": "3.19.0",
+    "eslint-config-airbnb": "15.0.1",
+    "eslint-plugin-import": "2.3.0",
+    "eslint-plugin-jsx-a11y": "5.0.3",
+    "eslint-plugin-react": "7.0.1",
+    "jest-expo": "~27.0.0",
+    "prettier": "1.8.2",
+    "react-native-scripts": "1.14.0",
+    "react-test-renderer": "16.3.1"
+  },
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "node node_modules/jest/bin/jest.js --watch",
+    "prettier": "prettier \"**/*.js\" --write",
+    "eslint-all": "eslint \"**/*.js\"",
+    "eslint": "eslint \"**/*[!0-9].js\""
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "expo": "^27.0.1",
+    "prop-types": "15.6.0",
+    "react": "16.3.1",
+    "react-native": "~0.55.2",
+    "uuid": "3.1.0"
+  }
+}

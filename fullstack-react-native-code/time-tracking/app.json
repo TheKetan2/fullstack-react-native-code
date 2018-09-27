@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "Time Tracking",
+    "slug": "time-tracking",
+    "sdkVersion": "27.0.0",
+    "orientation": "portrait"
+  }
+}

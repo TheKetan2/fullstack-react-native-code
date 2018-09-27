@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Messaging",
+    "slug": "messaging",
+    "sdkVersion": "27.0.0",
+    "orientation": "portrait",
+    "androidStatusBar": {
+      "barStyle": "dark-content",
+      "backgroundColor": "#FFFFFF"
+    }
+  }
+}
