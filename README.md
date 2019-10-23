@@ -4,7 +4,7 @@ This repository will be very helpful if you are following fullstack.io React Nat
 Please do star and share with people who are interested in this codebase.
 Happy Coding.
 
-Project:
+Projects:
 1. contact-list
 2. image-feed
 3. messaging
